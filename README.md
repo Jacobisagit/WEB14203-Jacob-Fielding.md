@@ -9,9 +9,20 @@ https://medium.com/@j.fielding/analyse-your-favourite-app-in-terms-of-interface-
 https://medium.com/@j.fielding/what-is-your-biggest-learning-so-far-from-this-project-code-is-very-difficult-week-4-dw-7bdeb5ad19eb
 
 # Firebase Database
+https://jakesfire-1d263.firebaseio.com/
 # Firebase Pusher Form
+https://thimble.mozilla.org/en-GB/anonymous/7628a3d0-a04f-4267-a62b-bf88f32ab49e/113848
 # Code Wars
-# App link
+
+# Link to code
+
+# Summative
+https://drive.google.com/file/d/17b7raMMDZ2kpbEQGmQuBtrdpgYOcZSri/view?usp=sharing
+# My App
+https://jacobisagit.github.io/Jakes-App-2/
+
+
+
 
 
 
